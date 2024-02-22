@@ -1,0 +1,43 @@
+.items {
+  width: 40em;
+  margin: 1px;
+}
+.total_Amount {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: bold;
+}
+.order_close {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+.order_close button {
+  border: none;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+.item_name {
+  font-weight: bold;
+}
+.single_item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom-left-radius: 15px;
+  margin-bottom: 4px;
+}
+.add_remove {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+.add_remove button {
+  font-size: larger;
+}
+.images {
+  height: 100px;
+  width: 50px;
+  background-size: contain;
+}
